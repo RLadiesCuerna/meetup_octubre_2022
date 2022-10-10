@@ -3,6 +3,12 @@
 
 ¡Les damos la bienvenida!
 
+En este meetup daremos ejemplo de varios tipos de gráficos: 
+* barplots
+* scatterplots
+* histograms
+* boxplots / violins
+
 
 ## Fecha 
 Jueves 13 de Octubre de 2022
