@@ -21,9 +21,7 @@ Para descargar este repositorio, da click en el botón Code > Download zip. Si l
 
 ## Conocimientos previos requeridos
 
-Este meetup está dirigido a principiantes de R con interés en aprender a utilizar los paquetes del tidyverse.
-
-## Temas a cubrir
+Este meetup está dirigido a principiantes de R con interés en aprender a generar gráficos avanzados con ggplot2
 
 
 ## Requerimientos de software
