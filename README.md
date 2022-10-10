@@ -31,4 +31,5 @@ Este meetup está dirigido a principiantes de R con interés en aprender a utili
 + Tener instalado R >= 4.0
 + Tener instalado RStudio >= 1.4
 + Instalar el paquete ggplot2 usando `install.packages(“ggplot2”)`
++ Instalar el paquete reshape2 usando `install.packages(“reshape2”)`
 
